@@ -22,6 +22,7 @@ The **Q&A Chatbot for Bangladesh** project is designed to question and answer ab
 ## Author
 
 **Mohammad Abdur Rahman (Riad)**  
-🎓 M.Sc. in CSE (Data Science), Daffodil International University  
+🎓 M.Sc. in Computer Science and Engineering (Major in Data Science) <br>
+🎓 B.Sc. in Computer Science and Engineering, Daffodil International University  
 📧 Email: [rahmanriad.cse@gmail.com]  
 🌐 [https://www.linkedin.com/in/rahmanriad/]
